@@ -77,4 +77,4 @@ Every project needs improvements, Feel free to report any bugs or improvements. 
 - User can not answer in every query post
 
 ## Screenshots
-![alt text](Screenshots/1.png)
+![alt text](Screenshots/1.PNG)
