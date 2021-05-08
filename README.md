@@ -77,4 +77,19 @@ Every project needs improvements, Feel free to report any bugs or improvements. 
 - User can not answer in every query post
 
 ## Screenshots
-![alt text](Screenshots/1.PNG)
+![Screenshot1](Screenshots/1.PNG)
+![Screenshot2](Screenshots/2.PNG)
+![Screenshot3](Screenshots/3.PNG)
+![Screenshot4](Screenshots/4.PNG)
+![Screenshot5](Screenshots/5.PNG)
+![Screenshot6](Screenshots/6.PNG)
+![Screenshot7](Screenshots/7(2).PNG)
+![Screenshot8](Screenshots/8.PNG)
+![Screenshot9](Screenshots/9.PNG)
+![Screenshot10](Screenshots/10.PNG)
+![Screenshot11](Screenshots/11.PNG)
+![Screenshot12](Screenshots/12.PNG)
+![Screenshot13](Screenshots/13.PNG)
+![Screenshot14](Screenshots/14.PNG)
+![Screenshot15](Screenshots/15.PNG)
+![Screenshot16](Screenshots/16.PNG)
